@@ -1,6 +1,6 @@
 # Tabular-Platground-Series-AUG_2022
 ## Reproducing Submission
-1. Install packeges with 'pip install -r requirements.txt'
+1. Install packages with 'pip install -r requirements.txt'
 2. Run '109550193_Final_inference.py'
 
 ## File Explanation
