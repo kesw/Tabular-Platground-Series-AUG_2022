@@ -6,7 +6,8 @@
 
 ## Generate model_weight
 1. Install packages with 'pip install -r requirements.txt'
-2. run '109550193_Final_train.py'
+2. Add [model](https://github.com/kesw/Tabular-Platground-Series-AUG_2022/blob/main/model), [train.csv](https://github.com/kesw/Tabular-Platground-Series-AUG_2022/blob/main/train.csv), [test.csv](https://github.com/kesw/Tabular-Platground-Series-AUG_2022/blob/main/test.csv) to the same directory
+3. run '109550193_Final_train.py'
 
 ## File Explanation
 1. [109550193_Final_inference.py](https://github.com/kesw/Tabular-Platground-Series-AUG_2022/blob/main/109550193_Final_inference.py) : predict results using the model_weight
