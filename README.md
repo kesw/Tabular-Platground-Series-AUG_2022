@@ -3,6 +3,10 @@
 1. Install packages with 'pip install -r requirements.txt'
 2. Run '109550193_Final_inference.py'
 
+## Generate model_weight
+1. Install packages with 'pip install -r requirements.txt'
+2. run '109550193_Final_train.py'
+
 ## File Explanation
 1. [109550193_Final_inference.py](https://github.com/kesw/Tabular-Platground-Series-AUG_2022/blob/main/109550193_Final_inference.py) : predict results using the model_weight
 2. [109550193_Final_train.py](https://github.com/kesw/Tabular-Platground-Series-AUG_2022/blob/main/109550193_Final_train.py) : train and output model_weight
