@@ -1,7 +1,8 @@
 # Tabular-Platground-Series-AUG_2022
 ## Reproducing Submission
 1. Install packages with 'pip install -r requirements.txt'
-2. Run '109550193_Final_inference.py'
+2. Add [model](https://github.com/kesw/Tabular-Platground-Series-AUG_2022/blob/main/model), [train.csv](https://github.com/kesw/Tabular-Platground-Series-AUG_2022/blob/main/train.csv), [test.csv](https://github.com/kesw/Tabular-Platground-Series-AUG_2022/blob/main/test.csv) to the same directory
+3. Run '109550193_Final_inference.py'
 
 ## Generate model_weight
 1. Install packages with 'pip install -r requirements.txt'
